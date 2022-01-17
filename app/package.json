@@ -1,0 +1,18 @@
+{
+  "name": "cmdapi",
+  "version": "0.1.0",
+  "description": "Server command API",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andreirotariu/cmdapi.git"
+  },
+  "license": "MIT",
+  "author": "Andrei Rotariu <rotariu.c.andrei@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.17.2"
+  }
+}
